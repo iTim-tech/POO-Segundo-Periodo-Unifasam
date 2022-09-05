@@ -2,7 +2,7 @@ package Lista234;
 
 import java.util.Scanner;
 
-public class Exercicio09 {
+public class Exercicio009 {
   /*
    * Escreva um programa que receba dois números x e y e calcule x^y.
    * Sem utilizar a biblioteca Math.
